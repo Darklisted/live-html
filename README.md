@@ -1,2 +1,2 @@
 # live-html
-LiveHTML a desktop app for all your website and learning needs
+LiveHTML a desktop app for all your website creating and learning needs
